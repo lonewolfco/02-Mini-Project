@@ -14,6 +14,8 @@ header h1 {
 
 header p {
     color: white;
+}
+
 .box {
     background-color: darkgray;
     width: 300px;
@@ -21,4 +23,3 @@ header p {
     padding: 50px;
     margin: 20px;
   }
-}
