@@ -30,7 +30,6 @@ display: flex;
 flex-direction: row wrap;
 }
 
-
 .box {
     background-color: darkgray;
     width: 300px;
@@ -38,8 +37,8 @@ flex-direction: row wrap;
     padding: 50px;
     margin: 20px;
   }
-.inside_text{
 
+.inside_text{
 position: relative;
 background-color: aliceblue;
 width: 260px;
