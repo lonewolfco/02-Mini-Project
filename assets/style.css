@@ -16,6 +16,11 @@ header p {
     color: white;
 }
 
+.content {
+    display: flex;
+    flex-flow: row wrap;
+}
+
 .box {
     background-color: darkgray;
     width: 300px;
