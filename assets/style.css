@@ -21,6 +21,11 @@ header p {
     padding: 10px;
 }
 
+.content {
+    display: flex;
+    flex-flow: row wrap;
+}
+
 .box {
     background-color: darkgray;
     width: 300px;
