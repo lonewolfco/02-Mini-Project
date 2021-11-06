@@ -1,7 +1,7 @@
 .box {
-    background-color: lightgrey;
+    background-color: darkgray;
     width: 300px;
-    border: 15px solid green;
+    border: 2px dashed white;
     padding: 50px;
     margin: 20px;
   }
