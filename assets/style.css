@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 20px;
+    color: purple;
+}
+
+header p {
+    color: white;
+}
