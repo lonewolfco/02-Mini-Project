@@ -3,6 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* header css styling start */
 header {
     text-align: center;
     padding: 15px;
@@ -20,11 +21,16 @@ header p {
     color: white;
     padding: 10px;
 }
+/* header styling end */
 
 .content {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+}
+.content{
+display: flex;
+flex-direction: row wrap;
 }
 
 .box {
@@ -35,8 +41,19 @@ header p {
     margin: 20px;
   }
 
+ 
+.inside_text{
+background-color: aliceblue;
+width: 260px;
+height: 150px;
+top: 30px;
+right: 30px;
+border-radius: 10px;
+}
 
-  @media screen and (min-width:992px) {
+/* media queries */
+
+@media screen and (min-width:992px) {
 
 }
   
