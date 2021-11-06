@@ -24,6 +24,7 @@ header p {
 .content {
     display: flex;
     flex-flow: row wrap;
+    justify-content: center;
 }
 
 .box {
@@ -33,3 +34,18 @@ header p {
     padding: 50px;
     margin: 20px;
   }
+
+
+  @media screen and (min-width:992px) {
+
+}
+  
+  @media screen and (max-width:992px) {
+
+  }
+
+  @media screen and (max-width:768px) {
+    .box {
+        width: 100%;
+    }
+}
